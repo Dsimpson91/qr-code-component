@@ -27,7 +27,7 @@
 }
 
 .img-div {
-    margin-bottom: 20px;
+    margin-bottom: 45px;
     img {
         width: 270px;
         height: 270px;
@@ -50,7 +50,7 @@
     p {
         text-align: center;
         font-size: 15px;
-        font-weight: 400;
+        font-weight: 300;
         font-family: "Outfit", sans-serif;
         padding-bottom: 10px;
         color: hsl(216, 15%, 48%);
